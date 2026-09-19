@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560">
+  <!-- Placeholder. Replace with your photo (assets/img/profile.jpg) and update the img src in index.html -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1C2839"/><stop offset="1" stop-color="#121A27"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#5CC6B3" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="480" height="560" fill="url(#g)"/>
+  <rect width="480" height="560" fill="url(#grid)"/>
+  <circle cx="240" cy="220" r="78" fill="none" stroke="#5CC6B3" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M110 470c16-80 70-124 130-124s114 44 130 124" fill="none" stroke="#5CC6B3" stroke-opacity=".5" stroke-width="2"/>
+  <text x="240" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="46" fill="#E8ECF2">BP</text>
+  <text x="240" y="530" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#97A3B6">Add your photo here</text>
+</svg>
